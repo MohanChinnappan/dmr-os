@@ -2,7 +2,10 @@ dmr-os
 ======
 
 dmr-os - Linux Distribution named after Dennis M Ritchie (one of fathers of Unix) - focus on easy of use  in Desktop 
-About dmr: http://www.youtube.com/watch?v=ESjTlD606aQ
+About dmr: 
+           http://www.youtube.com/watch?v=ESjTlD606aQ
+
+
            http://www.youtube.com/watch?v=uxtKwJZbYr0
            
 Goals:
