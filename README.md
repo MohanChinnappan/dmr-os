@@ -19,3 +19,4 @@ Goals:
 8. Should be able to run on Embedded devices with a plan to support as enduser device for Power-Smart-Grid
 9. Derby DB (Java DB), apache couchdb will available as core services with support for Erlang
 10. Developing Android apps should be simple and easy
+11. ZFS like good file system - Btrfs
