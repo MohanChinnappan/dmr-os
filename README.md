@@ -10,10 +10,10 @@ About dmr:
            
 Goals:
 1. Easy to use 
-2. Light weight - using the lesson learned in Chrome OS
+2. Light weight - using the lessons learned in Chrome OS
 3. State of the art UI - good enough to attract Windows desktop users to move to dmr-os
 4. Solid Python, C/C++, nodejs, Java support 
-5. Desktop apps written Python and js ( nodejs/c++)
+5. Desktop apps written in Python and js ( nodejs/c++)
 6. Chrome V8 used at the core of the OS
 7. Chrome browser will be our web-broser default
 8. Should be able to run on Embedded devices with a plan to support as enduser device for Power-Smart-Grid
